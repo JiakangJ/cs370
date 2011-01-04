@@ -1,0 +1,3 @@
+#summary Access information for the Subversion repository.
+
+svn+ssh://tux.cs.drexel.edu/home/jpe33/svn/cs370
