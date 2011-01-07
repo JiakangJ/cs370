@@ -3,3 +3,4 @@
 = Team Members =
 
  * [JasonEconomou Jason Economou]
+ * [EvanHaas Evan Haas]
