@@ -1,0 +1,11 @@
+#summary The profile page for Evan Haas
+
+= Evan Haas =
+
+* _Member ID:_ VanRude
+
+= Contact Information =
+
+ * _Email:_ [mailto:jeh65@drexel.edu?subject=CS370 jeh65@drexel.edu]
+ * _Phone:_ (410) 610 - 7154
+ * _AIM:_ VanRude (almost always logged in, will see message as soon as I sit down at my desktop)
