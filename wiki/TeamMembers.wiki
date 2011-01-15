@@ -5,4 +5,4 @@
  * [JasonEconomou Jason Economou]
  * [EvanHaas Evan Haas]
  * [PhilTrinh Phil Trinh]
- * [Ashwin Hamal]
+ * [AshwinHamal Ashwin Hamal]
