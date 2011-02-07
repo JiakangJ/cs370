@@ -1,0 +1,10 @@
+#summary A discussion page for work on Project 3.
+
+= Project 3 =
+
+_Name:_ Kernel Semaphore Implementation
+
+_Due Date:_ Friday, 11 February
+
+
+= Discussion =
