@@ -4,7 +4,7 @@
 
 _Name:_ Kernel Semaphore Implementation
 
-_Due Date:_ Friday, 11 February
+_Due Date:_ Monday, 14 February
 
 
 = Discussion =
